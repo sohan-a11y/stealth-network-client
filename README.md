@@ -1,13 +1,5 @@
 # Stealth Network Client (`stealth-network-client`)
 
-![GitHub License](https://img.shields.io/github/license/sohan-a11y/stealth-network-client?style=flat-square)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/sohan-a11y/stealth-network-client?style=flat-square)
-![GitHub Stars](https://img.shields.io/github/stars/sohan-a11y/stealth-network-client?style=flat-square)
-![GitHub Forks](https://img.shields.io/github/forks/sohan-a11y/stealth-network-client?style=flat-square)
-
-[![Skills](https://skillicons.dev/icons?i=python,c)](https://skillicons.dev)
-
-
 A high-performance Python HTTP client wrapping `curl_cffi` to match Chrome's native TLS handshake (BoringSSL, cipher suite order, HTTP/2 settings).
 
 ## Usage
